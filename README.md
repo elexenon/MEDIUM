@@ -1,3 +1,3 @@
 MEDIUM
 ====
-![image](https://github.com/Fijiisland/Cell_DeepLearning/blob/master/AppPreview/1.PNG)
+![image](https://github.com/elexenon/MEDIUM/blob/main/medium/raw/assets/imgs/MEDIUM.png)
