@@ -1,3 +1,3 @@
 MEDIUM
 ====
-<img src="https://github.com/elexenon/MEDIUM/blob/main/medium/raw/assets/imgs/MEDIUM.png" width = 100% height = 100% div align=center />
+<img src="https://github.com/elexenon/MEDIUM/blob/main/medium/raw/assets/imgs/MEDIUM_BIG.png" width = 60% height = 60% div align=center />
